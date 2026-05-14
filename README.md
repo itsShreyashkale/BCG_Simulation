@@ -161,8 +161,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-![alt text](image.png)
-
 ## Conclusion
 
 This project demonstrates how machine learning and business analytics can be used to solve real-world customer retention problems. It highlights the importance of combining technical analysis with business understanding to generate actionable insights.
