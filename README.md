@@ -28,8 +28,7 @@ The goal of this project was to:
 ├── docx/           
 ├── notebooks/         
 ├── tasks/
-├── certificate_bcg.pdf
-├── image.png           
+├── certificate_bcg.pdf          
 ├── README.md
 ├── summary.png
 ```
